@@ -1,0 +1,54 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "username": "Alex",
+      "text": "hey",
+      "timestamp": "2026-07-12T03:56:02.660Z",
+      "status": "sent"
+    },
+    {
+      "id": 2,
+      "username": "Bob",
+      "text": "hey",
+      "timestamp": "2026-07-12T03:59:41.962Z",
+      "status": "sent"
+    },
+    {
+      "id": 3,
+      "username": "Alex",
+      "text": "how are u",
+      "timestamp": "2026-07-12T04:00:52.247Z",
+      "status": "sent"
+    },
+    {
+      "id": 4,
+      "username": "Bob",
+      "text": "fine",
+      "timestamp": "2026-07-12T04:01:26.123Z",
+      "status": "sent"
+    }
+  ],
+  "users": {
+    "Aex": {
+      "username": "Aex",
+      "status": "offline",
+      "last_seen": "2026-07-12T03:55:09.053Z"
+    },
+    "Alex": {
+      "username": "Alex",
+      "status": "offline",
+      "last_seen": "2026-07-12T04:02:13.064Z"
+    },
+    "Bob": {
+      "username": "Bob",
+      "status": "offline",
+      "last_seen": "2026-07-12T04:02:13.327Z"
+    },
+    "alex": {
+      "username": "alex",
+      "status": "offline",
+      "last_seen": "2026-07-12T04:02:02.152Z"
+    }
+  }
+}
